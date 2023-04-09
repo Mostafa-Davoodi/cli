@@ -1,0 +1,13 @@
+.idea/
+.vscode/
+node_modules/
+output/
+build/
+tmp/
+temp/
+dist
+# environment variables
+.env*
+!.env.example
+.DS_Store
+*/.DS_Store
